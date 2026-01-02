@@ -1,0 +1,8 @@
+numpy
+scipy
+matplotlib
+plotly
+pandas
+qiskit
+aiskit-aer
+torch
